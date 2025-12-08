@@ -1,0 +1,24 @@
+参考位号,数量,器件型号,描述,封装,供应商,备注
+U1,1,ESP32-S3-WROOM-1-N8R2,WiFi蓝牙MCU模块,38.4x25.4mm,Espressif,核心模块
+U2,1,AMS1117-3.3,3.3V LDO稳压,SOT-223,AMS,电源稳压
+U3,1,TP4056,锂电池充电模块,SOP-8,TP,充电管理
+J1,1,USB-C-31-M-12,USB Type-C插座,Type-C,不限,USB接口
+J2,1,JST-PH-2.0-2P,电池插座,PH2.0,JST,电池接口
+J3,1,CONN_HEADER_6P,编程接口,2.54mm,不限,调试接口
+SW1-17,17,SW_TACTILE_6MM,贴片微动开关,6x6x5mm,不限,按钮
+JS1-2,2,RKJXV1224005,双轴摇杆,ALPS规格,ALPS,模拟摇杆
+M1-2,2,MOTOR_1020,扁平震动电机,10x20mm,不限,震动反馈
+D1-4,4,LED_0805,LED指示灯,0805,不限,状态指示
+D5,1,LED_3MM_3COLOR,三色LED,3mm直插,不限,电池指示
+R1-20,20,RES_0805_10K,10K电阻,0805,不限,上拉/下拉
+R21-24,4,RES_0805_330,330Ω电阻,0805,不限,LED限流
+C1-10,10,CAP_0805_100nF,100nF电容,0805,不限,去耦电容
+C11-12,2,CAP_0805_10uF,10μF电容,0805,不限,滤波电容
+C13-14,2,CAP_1210_100uF,100μF电容,1210,不限,电源滤波
+L1,1,INDUCTOR_0805,10μH电感,0805,不限,电源滤波
+BAT1,1,18650_LION,18650锂电池,18650,不限,电源
+S1,1,SW_TACTILE_6MM,复位按钮,6x6x5mm,不限,复位
+S2,1,SW_TACTILE_6MM,Boot按钮,6x6x5mm,不限,Boot模式
+PCB1,1,PCB_MAIN,主控PCB,100x60mm,不限,定制PCB
+ENCL1,1,ENCLOSURE,外壳,ABS塑料,不限,3D打印
+SCREW1-4,4,M2x10,螺丝,M2x10mm,不限,固定
